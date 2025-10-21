@@ -1,26 +1,31 @@
-# Hi, I’m Shashwat 👋
+<!-- Add your image/banner here -->
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Shashwat Web Banner" width="300"/>
+</p>
+
+# Hi, I’m **Shashwat** 👋
 
 ### A passionate Web Developer from India 🇮🇳
 
-- I’m currently building web-apps, working on responsive UI/UX, and learning full-stack development.  
-- I love collaborating on interesting open-source projects and learning new tech every day.  
-- Always open to connecting — feel free to reach out!
+* I’m currently working on **web-apps**, building **responsive UI/UX** & diving into full-stack development.  
+* I love collaborating on open-source projects and learning new technologies every day.  
+* Always open to connecting — feel free to reach out!
 
 ---
 
-### 🧰 Languages & Tools
+### 📬 Connect with me
 
-| Front-end | Back-end / Database | Others |
-|-----------|--------------------|--------|
+[![LinkedIn][linkedin-badge]][linkedin-url]  
+[![Email][email-badge]][email-url]  
+[![GitHub][github-badge]][github-url]
+
+---
+
+### 💡 Languages & Tools
+
+| Front-end                | Back-end / Database           | Others                              |
+|--------------------------|-------------------------------|-------------------------------------|
 | HTML5 · CSS3 · JavaScript · React | Node.js · Express.js · MongoDB | Git · GitHub · VS Code · REST APIs |
-
----
-
-### 📫 Connect with me
-
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Email: your.email@example.com  
-- GitHub: [github.com/Shashwat-web](https://github.com/Shashwat-web)  
 
 ---
 
